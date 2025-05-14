@@ -1,0 +1,12 @@
+/* src/index.css */
+@import "tailwindcss";
+
+body {
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
